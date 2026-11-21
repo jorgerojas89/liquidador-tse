@@ -1,0 +1,38 @@
+proyecto,codigo_submercado,nota
+Betania,CHBG,Nombre exacto en XM (BETANIA); ya estaba en mapeo_cartografia_xm.json
+Amoyá – La Esperanza,MOY1,XM: AMOYA LA ESPERANZA (ISAGEN)
+La Vuelta,VLT1,XM: LA VUELTA; ya estaba en mapeo_cartografia_xm.json
+La Tasajera,LTSJ,XM: LA TASAJERA; ya estaba en mapeo_cartografia_xm.json
+Rio grande – Quebrada Mocorongo,RGR1,"XM: RIO GRANDE (EPM, Donmatías). Confirmado por Jorge el 2026-11-14"
+Quimbo,QUI1,XM: EL QUIMBO; ya estaba en mapeo_cartografia_xm.json
+Río Tunjita,TUJ1,XM: TUNJITA (AES)
+Riofrío (Támesis),TMS1,XM: RIOFRIO (TAMESIS); ya estaba en mapeo_cartografia_xm.json
+Riogrande I – Embalse Quebradona,RGRN,XM: RIOGRANDE I (EPM)
+San Francisco,SNFR,XM: SAN FRANCISCO (EPM). No confundir con SFC1 SAN FRANCISCO (PUTUMAYO)
+La Herradura,HRD1,XM: LA HERRADURA; ya estaba en mapeo_cartografia_xm.json
+Sancancio,SNC1,XM: SAN CANCIO (EPM)
+Ituango,PES1,XM: ITUANGO (EPM)
+Sonsón,SNS1,XM: SONSON; ya estaba en mapeo_cartografia_xm.json
+Intermedia,INT1,XM: INTERMEDIA (EPM)
+Ínsula,INS1,XM: INSULA (EPM)
+Guavio,GVIO,XM: GUAVIO; ya estaba en mapeo_cartografia_xm.json. Ojo: existe además 2S8N GUAVIO MENOR
+Guatapé,GTPE,XM: GUATAPE; ya estaba en mapeo_cartografia_xm.json
+Guadalupe IV,GTRG,"XM: GUATRON = Guadalupe III + Guadalupe IV + Troneras (512 MW). Las 3 son 100 % CORANTIOQUIA: se agrupan y se liquidan una vez por central (Jorge, 2026-11-14)"
+Troneras,GTRG,"XM: GUATRON = Guadalupe III + Guadalupe IV + Troneras (512 MW). Las 3 son 100 % CORANTIOQUIA: se agrupan y se liquidan una vez por central (Jorge, 2026-11-14)"
+Guadalupe III,GTRG,"XM: GUATRON = Guadalupe III + Guadalupe IV + Troneras (512 MW). Las 3 son 100 % CORANTIOQUIA: se agrupan y se liquidan una vez por central (Jorge, 2026-11-14)"
+Guacaica,GCC1,XM: GUACAICA (EPM)
+Urrá,URA1,XM: URRA (Empresa Urrá). No confundir con PLU1 URRAO
+Esmeralda,ESMR,XM: ESMERALDA (EPM)
+Chivor,CHVR,XM: CHIVOR (AES)
+Caracolí,CRC1,XM: CARACOLI; ya estaba en mapeo_cartografia_xm.json
+Porce II,PRC2,XM: PORCE II; ya estaba en mapeo_cartografia_xm.json
+Porce III,PRC3,XM: PORCE III; ya estaba en mapeo_cartografia_xm.json
+PCH Porce III,2S8U,"XM: PORCE III MENOR (EPM, Anorí). Confirmado por Jorge el 2026-11-14"
+Playas,PLYS,XM: PLAYAS; ya estaba en mapeo_cartografia_xm.json
+PCH La Ayurá,AYR1,"XM: AUTOG AYURA (EPM, Envigado). Confirmado por Jorge el 2026-11-14"
+Pajarito II,PJR1,"XM: PAJARITO = Pajarito I + Pajarito II. Las 2 son 100 % CORANTIOQUIA: se agrupan y se liquidan una vez por central (Jorge, 2026-11-14)"
+Pajarito I,PJR1,"XM: PAJARITO = Pajarito I + Pajarito II. Las 2 son 100 % CORANTIOQUIA: se agrupan y se liquidan una vez por central (Jorge, 2026-11-14)"
+Niquía,NQU1,XM: NIQUIA; ya estaba en mapeo_cartografia_xm.json
+Municipal,MNC1,XM: MUNICIPAL (EPM)
+Miel I,HMLG,XM: MIEL I (ISAGEN); ya estaba en mapeo_cartografia_xm.json
+Minicentral Manantiales,MNT1,XM: MANANTIALES (EPM)

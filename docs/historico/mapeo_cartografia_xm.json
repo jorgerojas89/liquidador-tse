@@ -1,0 +1,414 @@
+{
+  "nota": "Enlace entre la cartografía del IGAC y las centrales de XM. Editable a mano: este archivo manda sobre el cruce automático. Las filas con revisar=true necesitan confirmación de la ONVS.",
+  "umbral_aceptacion": 0.86,
+  "mapeo": [
+    {
+      "proyecto_cartografia": "2",
+      "codigo_submercado": null,
+      "recurso_xm": null,
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": true
+    },
+    {
+      "proyecto_cartografia": "amaime",
+      "codigo_submercado": "AMA1",
+      "recurso_xm": "AMAIME",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "asnazu",
+      "codigo_submercado": "ASN1",
+      "recurso_xm": "ASNAZU",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "b_tulua",
+      "codigo_submercado": "2QV2",
+      "recurso_xm": "BAJO TULUA",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "betania",
+      "codigo_submercado": "CHBG",
+      "recurso_xm": "BETANIA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "bobo",
+      "codigo_submercado": "RBB1",
+      "recurso_xm": "RIO BOBO",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "calderas",
+      "codigo_submercado": "CLDR",
+      "recurso_xm": "CALDERAS",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "calima",
+      "codigo_submercado": "CLMG",
+      "recurso_xm": "CALIMA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "caracoli",
+      "codigo_submercado": "CRC1",
+      "recurso_xm": "CARACOLI",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "charquito",
+      "codigo_submercado": "CQT1",
+      "recurso_xm": "CHARQUITO",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "cucuana",
+      "codigo_submercado": "CUC1",
+      "recurso_xm": "CUCUANA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "dariovalencia",
+      "codigo_submercado": "DVS1",
+      "recurso_xm": "DARIO VALENCIA SAMPER",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "el_molino",
+      "codigo_submercado": "2T1L",
+      "recurso_xm": "EL MOLINO",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "florida_ii",
+      "codigo_submercado": "FLRD",
+      "recurso_xm": "FLORIDA",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "guatape",
+      "codigo_submercado": "GTPE",
+      "recurso_xm": "GUATAPE",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "guatron",
+      "codigo_submercado": "GTRG",
+      "recurso_xm": "GUATRON",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "guavio",
+      "codigo_submercado": "GVIO",
+      "recurso_xm": "GUAVIO",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "herradura",
+      "codigo_submercado": "HRD1",
+      "recurso_xm": "LA HERRADURA",
+      "origen": "similitud de nombre",
+      "similitud": 0.9,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "hidromontanitas",
+      "codigo_submercado": "HMO1",
+      "recurso_xm": "HIDROMONTAÑITAS",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "inza",
+      "codigo_submercado": "INZ1",
+      "recurso_xm": "INZA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "jaguas",
+      "codigo_submercado": "JAGS",
+      "recurso_xm": "JAGUAS",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "laguneta",
+      "codigo_submercado": "2R22",
+      "recurso_xm": "LAGUNETA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "lamiel",
+      "codigo_submercado": "HMLG",
+      "recurso_xm": "MIEL I",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "lavuelta",
+      "codigo_submercado": "VLT1",
+      "recurso_xm": "LA VUELTA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "mayo",
+      "codigo_submercado": "RMYO",
+      "recurso_xm": "RIO MAYO",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "nima_i_ii",
+      "codigo_submercado": "NIM1",
+      "recurso_xm": "NIMA",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "niquia",
+      "codigo_submercado": "NQU1",
+      "recurso_xm": "NIQUIA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "ovejas",
+      "codigo_submercado": "OVJ1",
+      "recurso_xm": "OVEJAS",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "paraiso",
+      "codigo_submercado": null,
+      "recurso_xm": null,
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": true
+    },
+    {
+      "proyecto_cartografia": "playas",
+      "codigo_submercado": "PLYS",
+      "recurso_xm": "PLAYAS",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "popal",
+      "codigo_submercado": "2QBW",
+      "recurso_xm": "EL POPAL",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "porce_ii",
+      "codigo_submercado": "PRC2",
+      "recurso_xm": "PORCE II",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "porce_iii",
+      "codigo_submercado": "PRC3",
+      "recurso_xm": "PORCE III",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "prado",
+      "codigo_submercado": "PRDO",
+      "recurso_xm": "PRADO",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "quimbo",
+      "codigo_submercado": "QUI1",
+      "recurso_xm": "EL QUIMBO",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "riocali1",
+      "codigo_submercado": "RCL1",
+      "recurso_xm": "RIO CALI",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "riocali2",
+      "codigo_submercado": "RCL1",
+      "recurso_xm": "RIO CALI",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "riofrio",
+      "codigo_submercado": "TMS1",
+      "recurso_xm": "RIOFRIO (TAMESIS)",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "riofrio1",
+      "codigo_submercado": "RFR1",
+      "recurso_xm": "RIO FRIO I",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "riofrio2",
+      "codigo_submercado": "RFR2",
+      "recurso_xm": "RIO FRIO II",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "riopalo",
+      "codigo_submercado": "LPLO",
+      "recurso_xm": "RIO PALO",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "rumor",
+      "codigo_submercado": "RMR1",
+      "recurso_xm": "RUMOR",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "salto",
+      "codigo_submercado": "2QEK",
+      "recurso_xm": "SALTO II",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "salvajina",
+      "codigo_submercado": "SLVJ",
+      "recurso_xm": "SALVAJINA",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "san_bartolome",
+      "codigo_submercado": null,
+      "recurso_xm": null,
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": true
+    },
+    {
+      "proyecto_cartografia": "san_carlos",
+      "codigo_submercado": "SNCR",
+      "recurso_xm": "SAN CARLOS",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "san_miguel",
+      "codigo_submercado": "SMI1",
+      "recurso_xm": "SAN MIGUEL",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "sanbartolome",
+      "codigo_submercado": "3HDE",
+      "recurso_xm": "SAN BARTOLOME",
+      "origen": "corrección manual",
+      "similitud": null,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "sogamoso",
+      "codigo_submercado": "SOG1",
+      "recurso_xm": "SOGAMOSO",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "sonson",
+      "codigo_submercado": "SNS1",
+      "recurso_xm": "SONSON",
+      "origen": "similitud de nombre",
+      "similitud": 1.0,
+      "revisar": false
+    },
+    {
+      "proyecto_cartografia": "tasajera",
+      "codigo_submercado": "LTSJ",
+      "recurso_xm": "LA TASAJERA",
+      "origen": "similitud de nombre",
+      "similitud": 0.889,
+      "revisar": false
+    }
+  ]
+}
