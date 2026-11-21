@@ -1,0 +1,13 @@
+# Base de datos y PDF adjuntos (se quedan en el computador de quien usa la app)
+almacen/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Sistema y editores
+.DS_Store
+.vscode/
+.claude/settings.local.json
