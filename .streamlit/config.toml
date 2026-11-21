@@ -1,0 +1,5 @@
+# Apariencia del Liquidador TSE. Solo el color de acento; el resto es el tema
+# de Streamlit, con el cambio claro/oscuro disponible en el menú.
+[theme]
+primaryColor = "#1f6f5c"
+linkColor = "#1f6f5c"
